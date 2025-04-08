@@ -34,3 +34,6 @@ A simple, modern full-stack invoice tracking application built with **Next.js**,
 1. Clone the repo:
    ```bash
    git clone https://github.com/asammeat/invoice-tracker.git
+---
+## Live Demo
+🌐 **Live Demo** → [invoice-tracker-two.vercel.app](https://invoice-tracker-two.vercel.app/)
