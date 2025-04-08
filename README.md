@@ -33,4 +33,4 @@ A simple, modern full-stack invoice tracking application built with **Next.js**,
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/softdevexp13/invoice-tracker.git
+   git clone https://github.com/asammeat/invoice-tracker.git
