@@ -1,6 +1,6 @@
 # 🧾 InvoSync – Invoice Tracker App
 
-A simple, modern full-stack invoice tracking application built with **Next.js**, **Supabase**, and **Tailwind CSS**. This project showcases practical full-stack skills, business logic, and professional UI for small businesses and freelancers.
+A simple, modern full-stack invoice tracking application built with **Next.js**, **Supabase**, and **Tailwind CSS**. 
 
 ---
 
